@@ -58,7 +58,6 @@ namespace Oefening4
                         }
                         else
                         {
-
                             restartGame = true;
                             playGame = false;
                             userInputX = -1;
